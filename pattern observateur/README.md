@@ -8,11 +8,16 @@ Contenu des répertoires
 
 ### Projet C#
 
-Contient le code source du projets sous Visual Studio
+Contient le code source du projet C# sous Visual Studio ainsi que l'exécutable de l'application (voir Présentation.pptx)
 
 
-### Executable
+### Projet Python
 
-- Contient l'exécutable de l'application (voir Présentation.pptx)
+À venir 
+
+
+### Projet Java
+
+À venir 
 
 
